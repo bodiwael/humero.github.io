@@ -10,7 +10,7 @@ html, body{
   padding: .8rem;
 }
 .navbar-brand img{
-  width: 150px;
+  width: 70px;
   height: 70px;
 }
 .navbar-nav li{
@@ -132,8 +132,8 @@ hr.light-100 {
   margin-bottom: 1rem;
 }
 .footer-image img{
-  width: 150px;
-  height: 60px;
+  width: 80px;
+  height: 80px;
 }
 
 
